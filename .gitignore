@@ -1,0 +1,7 @@
+accounts/
+apis.txt
+proxies.txt
+*.json
+__pycache__/
+.venv/
+*.pyc
